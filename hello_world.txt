@@ -1,1 +1,2 @@
 instructions says to add some text and pressing cmd+s so i am doing just that
+added a configuration so we are trying to use visual studio code as the text editor for git commit
